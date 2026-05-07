@@ -11,6 +11,7 @@
 
 /* Reset básico: remove margens padrão que o navegador coloca por conta própria */
 * {
+    font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box; /* Garante que padding não aumente o tamanho total do elemento */
